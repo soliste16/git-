@@ -123,15 +123,15 @@ $ git config --global user.email 'メールアドレス'
 
 まず、クローンしたいリポジトリページの右上にある緑色の`Code`ボタンをクリックします。ここで、`HTTPS`と書かれた欄のURLをクリップボードにコピーします。
 
-<img src = "img/git-image/7.PNG" width = "1000">
+<img src = "img/git-image/7.png" width = "1000">
 
 再度VSCodeを開いてショートカット`ctrl+shift+p`でコマンドパレットを開きます。コマンドパレットでは、VSCodeで実行できる機能の名前を打ち込んで実行することができます。ここで、`git clone`と打ち込みます。
 
-<img src = "img/git-image/9.PNG" width = "1000">
+<img src = "img/git-image/9.png" width = "1000">
 
 出てきたリストの一番上をクリックしましょう。すると、クローンするリポジトリのURLを求められるので、先ほどコピーしたURLを張り付けてEnterを押します。
 
-<img src = "img/git-image/10.PNG" width = "1000">
+<img src = "img/git-image/10.png" width = "1000">
 
 リポジトリの保存場所を選択する必要があるので、適当なところを選んでください。ここで`Select Repository Location`をクリックするとクローンが始まります。
 
